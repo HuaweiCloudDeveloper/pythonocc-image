@@ -1,1 +1,23 @@
+# 镜像基础功能验证
+# 进入docker pythonocc容器内
+# 执行成功没有报错
+'''
+docker exec -it pythonocc /bin/bash
+cd /home
+conda activate pythonocc
+python test.py
+'''
 
+# 镜像基础功能验证
+# 进入docker pythonocc容器内
+# 执行成功没有报错
+# pythonocc 版本显示 7.5.1
+# occwl 版本显示3.0.0
+
+"""
+docker exec -it pythonocc /bin/bash
+cd /home
+conda activate pythonocc
+python -c ""import OCC; print(OCC.VERSION)""
+pip show occwl
+"""
