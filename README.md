@@ -2,6 +2,9 @@
 
 # pythonOCC (Python OpenCASCADE) - 开源三维建模与工程计算平台
 
+# 镜像链接：
+https://marketplace.huaweicloud.com/hidden/contents/d1193fe2-35fb-4ca8-9611-605a3a4daae7#productid=OFFI1164386602295070720
+
 # 镜像版本：
 镜像内为HCE2.0操作系统，操作系统内有PythonOCC 7.5.1 在OpenEuler22.03操作系统上运行的Docker镜像
 
